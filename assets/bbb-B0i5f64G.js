@@ -1,1 +1,0 @@
-import{l as t}from"./index-Bni88ulI.js";function r(b){return t({url:"/bbb/bbb/list",method:"get",params:b})}function u(b){return t({url:"/bbb/bbb",method:"post",data:b})}function n(b){return t({url:"/bbb/bbb",method:"put",data:b})}function o(b){return t({url:"/bbb/bbb/"+b,method:"delete"})}export{u as a,o as d,r as l,n as u};
