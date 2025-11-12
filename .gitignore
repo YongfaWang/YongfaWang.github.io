@@ -1,5 +1,4 @@
 # Common
-dist
 node_modules
 .eslintcache
 vite.config.*.timestamp*
@@ -13,6 +12,3 @@ vite.config.*.timestamp*
 # Logs
 *.log
 
-# Use the pnpm
-package-lock.json
-yarn.lock
